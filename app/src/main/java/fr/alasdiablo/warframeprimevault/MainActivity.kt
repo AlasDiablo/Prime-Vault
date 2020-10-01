@@ -1,7 +1,10 @@
 package fr.alasdiablo.warframeprimevault
 
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
-import android.widget.Button
+import android.view.Menu
+import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -9,7 +12,6 @@ import kotlinx.android.synthetic.main.activity_main.*
 import org.json.JSONObject
 import java.io.IOException
 import java.io.InputStream
-import java.lang.Exception
 import java.nio.charset.Charset
 
 
@@ -28,6 +30,27 @@ class MainActivity : AppCompatActivity() {
 
         setRecyclerView("lith.json")
 
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.app_option, menu)
+        return true
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem?): Boolean {
+        return when(item!!.itemId) {
+            R.id.action_issue -> {
+                val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/AlasDiablo/Prime-Vault/issues"))
+                startActivity(browserIntent)
+                true
+            }
+            R.id.action_about -> {
+                val ic = Intent(this, AboutActivity::class.java)
+                startActivity(ic)
+                true
+            }
+            else -> false
+        }
     }
 
     fun setRecyclerView(jsonName: String) {

@@ -7,4 +7,14 @@
     <string name="common">Common (25.33%)</string>
     <string name="uncommon">Uncommon (11%)</string>
     <string name="rare">Rare (2%)</string>
+    <string name="issue">Report issue</string>
+    <string name="about">About</string>
+    <string name="wf_version_text">"Warframe Version"</string>
+    <string name="wf_version">Heart of Deimos: Prime Vault: 29.2.0</string>
+    <string name="version_text">Application Version</string>
+    <string name="version">1.0</string>
+    <string name="desc_about">This app was created for a school project.</string>
+    <string name="legal">Digital Extremes Ltd, Warframe and the logo Warframe are registered trademarks. All rights are reserved worldwide. This application has no official link with Digital Extremes Ltd or Warframe. All artwork, screenshots, characters or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of Digital Extremes Ltd.</string>
+    <string name="about_title">About this app</string>
+    <string name="legal_title">LEGALS / DISCLAIMER</string>
 </resources>
