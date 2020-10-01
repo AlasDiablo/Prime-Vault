@@ -149,12 +149,68 @@
       "id": "C2",
       "vault": true,
       "drop_table": {
-        "common_1": "Fang Prime Blade",
-        "common_2": "Nova Prime Neuroptics",
-        "common_3": "Nova Prime Systems",
-        "uncommon_1": "Kavasa Prime Band",
-        "uncommon_2": "Forma Blueprint",
-        "rare": "Carrier Prime Cerebrum"
+        "common_1": "Bronco Prime Receiver",
+        "common_2": "Paris Prime Upper Limb",
+        "common_3": "Venka Prime Blades",
+        "uncommon_1": "Akbolto Prime Barrel",
+        "uncommon_2": "Nami Skyla Prime Handle",
+        "rare": "Cernos Prime Lower Limb"
+      }
+    },
+    {
+      "name": "Lith C3",
+      "era": "Lith",
+      "id": "C3",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Sybaris Prime Blueprint",
+        "common_2": "Silva & Aegis Prime Hilt",
+        "common_3": "Lex Prime Blueprint",
+        "uncommon_1": "Helios Prime Blueprint",
+        "uncommon_2": "Braton Prime Blueprint",
+        "rare": "Chroma Prime Neuroptics"
+      }
+    },
+    {
+      "name": "Lith C4",
+      "era": "Lith",
+      "id": "C4",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Burston Prime Receiver",
+        "common_2": "Forma Blueprint",
+        "common_3": "Paris Prime Lower Limb",
+        "uncommon_1": "Braton Prime Stock",
+        "uncommon_2": "Orthos Prime Blade",
+        "rare": "Chroma Prime Neuroptics"
+      }
+    },
+    {
+      "name": "Lith C5",
+      "era": "Lith",
+      "id": "C5",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Forma Blueprint",
+        "common_2": "Saryn Prime Neuroptics",
+        "common_3": "Spira Prime Blueprint",
+        "uncommon_1": "Valkyr Prime Neuroptics",
+        "uncommon_2": "Venka Prime Blueprint",
+        "rare": "Cernos Prime Lower Limb"
+      }
+    },
+    {
+      "name": "Lith C6",
+      "era": "Lith",
+      "id": "C6",
+      "vault": false,
+      "drop_table": {
+        "common_1": "Equinox Prime Chassis",
+        "common_2": "Fang Prime Blade",
+        "common_3": "Forma Blueprint",
+        "uncommon_1": "Braton Prime Receiver",
+        "uncommon_2": "Mesa Prime Blueprint",
+        "rare": "Corinth Prime Stock"
       }
     }
 
