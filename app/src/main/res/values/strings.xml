@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Warframe Prime Vault</string>
+    <string name="lith">Lith</string>
+    <string name="meso">Meso</string>
+    <string name="neo">Neo</string>
+    <string name="axi">Axi</string>
+    <string name="common">Common (25.33%)</string>
+    <string name="uncommon">Uncommon (11%)</string>
+    <string name="rare">Rare (2%)</string>
+</resources>

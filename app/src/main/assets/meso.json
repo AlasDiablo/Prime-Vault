@@ -1,0 +1,32 @@
+{
+  "relic": [
+    {
+      "name": "Meso A1",
+      "era": "Meso",
+      "id": "A1",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Ballistica Prime Lower Limb",
+        "common_2": "Orthos Prime Handle",
+        "common_3": "Sybaris Prime Stock",
+        "uncommon_1": "Forma Blueprint",
+        "uncommon_2": "Kronen Prime Handle",
+        "rare": "Akjagara Prime Barrel"
+      }
+    },
+    {
+      "name": "Meso A2",
+      "era": "Meso",
+      "id": "A2",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Forma Blueprint",
+        "common_2": "Tipedo Prime Blueprint",
+        "common_3": "Zhuge Prime Grip",
+        "uncommon_1": "Equinox Prime Blueprint",
+        "uncommon_2": "Zephyr Prime Chassis",
+        "rare": "Akbolto Prime Receiver"
+      }
+    }
+  ]
+}

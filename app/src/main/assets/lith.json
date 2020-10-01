@@ -1,0 +1,163 @@
+{
+  "relic": [
+    {
+      "name": "Lith A1",
+      "era": "Lith",
+      "id": "A1",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Braton Prime Barrel",
+        "common_2": "Forma Blueprint",
+        "common_3": "Vasto Prime Receiver",
+        "uncommon_1": "Saryn Prime Neuroptics",
+        "uncommon_2": "Vectis Prime Blueprint",
+        "rare": "Akstiletto Prime Blueprint"
+      }
+    },
+    {
+      "name": "Lith A2",
+      "era": "Lith",
+      "id": "A2",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Lex Prime Barrel",
+        "common_2": "Forma Blueprint",
+        "common_3": "Valkyr Prime Blueprint",
+        "uncommon_1": "Akbronco Prime Link",
+        "uncommon_2": "Cernos Prime Blueprint",
+        "rare": "Akstiletto Prime Blueprint"
+      }
+    },
+    {
+      "name": "Lith A3",
+      "era": "Lith",
+      "id": "A3",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Lex Prime Blueprint",
+        "common_2": "Orthos Prime Handle",
+        "common_3": "Rubico Prime Receiver",
+        "uncommon_1": "Akbolto Prime Barrel",
+        "uncommon_2": "Tiberon Prime Blueprint",
+        "rare": "Akjagara Prime Barrel"
+      }
+    },
+
+    {
+      "name": "Lith B1",
+      "era": "Lith",
+      "id": "B1",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Mag Prime Neuroptics",
+        "common_2": "Ankyros Prime Blueprint",
+        "common_3": "Forma Blueprint",
+        "uncommon_1": "Rhino Prime Neuroptics",
+        "uncommon_2": "Boltor Prime Receiver",
+        "rare": "Boar Prime Stock"
+      }
+    },
+    {
+      "name": "Lith B2",
+      "era": "Lith",
+      "id": "B2",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Forma Blueprint",
+        "common_2": "Paris Prime Lower Limb",
+        "common_3": "Tigris Prime Stock",
+        "uncommon_1": "Braton Prime Receiver",
+        "uncommon_2": "Orthos Prime Blade",
+        "rare": "Ballistica Prime Blueprint"
+      }
+    },
+    {
+      "name": "Lith B3",
+      "era": "Lith",
+      "id": "B3",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Burston Prime Blueprint",
+        "common_2": "Forma Blueprint",
+        "common_3": "Limbo Prime Systems",
+        "uncommon_1": "Cernos Prime String",
+        "uncommon_2": "Orthos Prime Blade",
+        "rare": "Ballistica Prime Blueprint"
+      }
+    },
+    {
+      "name": "Lith B4",
+      "era": "Lith",
+      "id": "B4",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Ankyros Prime Blueprint",
+        "common_2": "Forma Blueprint",
+        "common_3": "Nyx Prime Blueprint",
+        "uncommon_1": "Rhino Prime Neuroptics",
+        "uncommon_2": "Scindo Prime Blueprint",
+        "rare": "Boltor Prime Blueprint"
+      }
+    },
+    {
+      "name": "Lith B5",
+      "era": "Lith",
+      "id": "B5",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Oberon Prime Chassis",
+        "common_2": "Lex Prime Receiver",
+        "common_3": "Banshee Prime Neuroptics",
+        "uncommon_1": "Rubico Prime Stock",
+        "uncommon_2": "Orthos Prime Blade",
+        "rare": "Ballistica Prime Blueprint"
+      }
+    },
+    {
+      "name": "Lith B6",
+      "era": "Lith",
+      "id": "B6",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Fang Prime Blueprint",
+        "common_2": "Lex Prime Barrel",
+        "common_3": "Limbo Prime Systems",
+        "uncommon_1": "Orthos Prime Blueprint",
+        "uncommon_2": "Redeemer Prime Blueprint",
+        "rare": "Ballistica Prime Blueprint"
+      }
+    },
+
+
+    {
+      "name": "Lith C1",
+      "era": "Lith",
+      "id": "C1",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Fang Prime Blade",
+        "common_2": "Nova Prime Neuroptics",
+        "common_3": "Nova Prime Systems",
+        "uncommon_1": "Kavasa Prime Band",
+        "uncommon_2": "Forma Blueprint",
+        "rare": "Carrier Prime Cerebrum"
+      }
+    },
+    {
+      "name": "Lith C2",
+      "era": "Lith",
+      "id": "C2",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Fang Prime Blade",
+        "common_2": "Nova Prime Neuroptics",
+        "common_3": "Nova Prime Systems",
+        "uncommon_1": "Kavasa Prime Band",
+        "uncommon_2": "Forma Blueprint",
+        "rare": "Carrier Prime Cerebrum"
+      }
+    }
+
+
+  ]
+}

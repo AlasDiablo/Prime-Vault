@@ -1,0 +1,60 @@
+{
+  "relic": [
+    {
+      "name": "Neo A1",
+      "era": "Neo",
+      "id": "A1",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Carrier Prime Systems",
+        "common_2": "Braton Prime Barrel",
+        "common_3": "Forma Blueprint",
+        "uncommon_1": "Cernos Prime String",
+        "uncommon_2": "Vectis Prime Blueprint",
+        "rare": "Akstiletto Prime Blueprint"
+      }
+    },
+    {
+      "name": "Neo A2",
+      "era": "Neo",
+      "id": "A2",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Kronen Prime Blueprint",
+        "common_2": "Limbo Prime Systems",
+        "common_3": "Pyrana Prime Barrel",
+        "uncommon_1": "Forma Blueprint",
+        "uncommon_2": "Zephyr Prime Chassis",
+        "rare": "Akbolto Prime Receiver"
+      }
+    },
+    {
+      "name": "Neo A3",
+      "era": "Neo",
+      "id": "A3",
+      "vault": false,
+      "drop_table": {
+        "common_1": "Lex Prime Barrel",
+        "common_2": "Mesa Prime Chassis",
+        "common_3": "Zhuge Prime Grip",
+        "uncommon_1": "Atlas Prime Systems",
+        "uncommon_2": "Equinox Prime Neuroptics",
+        "rare": "Akjagara Prime Barrel"
+      }
+    },
+    {
+      "name": "Neo A4",
+      "era": "Neo",
+      "id": "A4",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Carrier Prime Carapace",
+        "common_2": "Forma Blueprint",
+        "common_3": "Vauban Prime Chassis",
+        "uncommon_1": "Ash Prime Neuroptics",
+        "uncommon_2": "Vectis Prime Blueprint",
+        "rare": "Akstiletto Prime Blueprint"
+      }
+    }
+  ]
+}

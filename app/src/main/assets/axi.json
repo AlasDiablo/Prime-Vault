@@ -1,0 +1,60 @@
+{
+  "relic": [
+    {
+      "name": "Axi A1",
+      "era": "Axi",
+      "id": "A1",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Trinity Prime Systems",
+        "common_2": "Fragor Prime Head",
+        "common_3": "Braton Prime Stock",
+        "uncommon_1": "Akstiletto Prime Barrel",
+        "uncommon_2": "Dual Kamas Prime Handle",
+        "rare": "Nikana Prime Blueprint"
+      }
+    },
+    {
+      "name": "Axi A2",
+      "era": "Axi",
+      "id": "A2",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Lex Prime Receiver",
+        "common_2": "Forma Blueprint",
+        "common_3": "Lex Prime Barrel",
+        "uncommon_1": "Aklex Prime Blueprint",
+        "uncommon_2": "Lex Prime Blueprint",
+        "rare": "Aklex Prime Link"
+      }
+    },
+    {
+      "name": "Axi A3",
+      "era": "Axi",
+      "id": "A3",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Braton Prime Barrel",
+        "common_2": "Helios Prime Carapace",
+        "common_3": "Kogake Prime Boot",
+        "uncommon_1": "Cernos Prime String",
+        "uncommon_2": "Hydroid Prime Neuroptics",
+        "rare": "Akbolto Prime Receiver"
+      }
+    },
+    {
+      "name": "Axi A4",
+      "era": "Axi",
+      "id": "A4",
+      "vault": true,
+      "drop_table": {
+        "common_1": "Braton Prime Stock",
+        "common_2": "Forma Blueprint",
+        "common_3": "Zephyr Prime Neuroptics",
+        "uncommon_1": "Ballistica Prime String",
+        "uncommon_2": "Fang Prime Handle",
+        "rare": "Akbolto Prime Receiver"
+      }
+    }
+  ]
+}
